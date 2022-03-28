@@ -1,8 +1,8 @@
 # DataStorm-3.0
 Weekly Sales Predictions for DataStorm 3.0 Contest 2022
 
-Data Sources
-You are provided with the following data source files to develop a data analytics solution.<br />
+Data Sources: -
+<br />
 1. Training dataset – Historical item sales dataset consists of 194 items from 4 different categories with daily sales in quantity units collected through transactions for 5 months. (train-data.csv) <br />
       a. CategoryCode: The items are classified into 4 different categories; this column refers to its code.<br />
       b. ItemCode: An identifier for each item<br />
